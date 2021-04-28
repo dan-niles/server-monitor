@@ -1,0 +1,2118 @@
+2020-09-03 08:34:12 - ==== Script execution started ====
+2020-09-03 08:34:15 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:34:18 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:34:21 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:34:24 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:34:27 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:34:27 - ==== Script execution ended / Total = 5, Successful = 5, Failed = 0 ====
+2020-09-03 08:35:04 - ==== Script execution started ====
+2020-09-03 08:35:07 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:35:11 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:35:14 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:35:17 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:35:20 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:35:20 - ==== Script execution ended / Total = 5, Successful = 5, Failed = 0 ====
+2020-09-03 08:36:04 - ==== Script execution started ====
+2020-09-03 08:36:08 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:36:11 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:36:14 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:36:17 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:36:20 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:36:20 - ==== Script execution ended / Total = 5, Successful = 5, Failed = 0 ====
+2020-09-03 08:37:05 - ==== Script execution started ====
+2020-09-03 08:37:09 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:37:12 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:37:15 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:37:18 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:37:21 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:37:21 - ==== Script execution ended / Total = 5, Successful = 5, Failed = 0 ====
+2020-09-03 08:38:04 - ==== Script execution started ====
+2020-09-03 08:38:07 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:38:10 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:38:14 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:38:17 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:38:20 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:38:23 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:38:26 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:38:26 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 08:39:06 - ==== Script execution started ====
+2020-09-03 08:39:09 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:39:12 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:39:15 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:39:18 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:39:21 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:39:24 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:39:27 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:39:27 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 08:40:04 - ==== Script execution started ====
+2020-09-03 08:40:07 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:40:10 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:40:13 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:40:17 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:40:20 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:40:23 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:40:26 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:40:26 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 08:47:15 - ==== Script execution started ====
+2020-09-03 08:47:19 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:47:22 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:47:25 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:47:28 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:47:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:47:36 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:47:40 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:47:40 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 08:48:10 - ==== Script execution started ====
+2020-09-03 08:48:13 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:48:17 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:48:20 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:48:23 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:48:26 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:48:29 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:48:32 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:48:32 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 08:49:02 - ==== Script execution started ====
+2020-09-03 08:49:05 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:49:08 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:49:11 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:49:27 - Dan's Phone: 172.21.20.70 is down. Ping Unsuccessful.
+2020-09-03 08:49:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:49:36 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:49:39 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:49:39 - ==== Script execution ended / Total = 7, Successful = 6, Failed = 1 ====
+2020-09-03 08:50:09 - ==== Script execution started ====
+2020-09-03 08:50:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:50:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:50:18 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:50:30 - Dan's Phone: 172.21.20.70 is down. Ping Unsuccessful.
+2020-09-03 08:50:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:50:36 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:50:39 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:50:39 - ==== Script execution ended / Total = 7, Successful = 6, Failed = 1 ====
+2020-09-03 08:51:09 - ==== Script execution started ====
+2020-09-03 08:51:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:51:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:51:18 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:51:21 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:51:25 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:51:28 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:51:31 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:51:31 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 08:52:01 - ==== Script execution started ====
+2020-09-03 08:52:04 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:52:07 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:52:10 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:52:13 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:52:16 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:52:19 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:52:22 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:52:22 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 08:56:05 - ==== Script execution started ====
+2020-09-03 08:56:08 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:56:11 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:56:14 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:56:17 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:56:20 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:56:23 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:56:26 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:56:26 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 08:56:56 - ==== Script execution started ====
+2020-09-03 08:56:59 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:57:02 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:57:05 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:57:21 - Dan's Phone: 172.21.20.70 is down. Ping Unsuccessful.
+2020-09-03 08:57:25 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:57:28 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:57:31 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:57:31 - ==== Script execution ended / Total = 7, Successful = 6, Failed = 1 ====
+2020-09-03 08:58:01 - ==== Script execution started ====
+2020-09-03 08:58:04 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:58:07 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:58:10 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:58:18 - Dan's Phone: 172.21.20.70 is down. Ping Unsuccessful.
+2020-09-03 08:58:22 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:58:25 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:58:28 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:58:28 - ==== Script execution ended / Total = 7, Successful = 6, Failed = 1 ====
+2020-09-03 08:58:58 - ==== Script execution started ====
+2020-09-03 08:59:01 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:59:04 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 08:59:07 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 08:59:10 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 08:59:14 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 08:59:17 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 08:59:20 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 08:59:20 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 08:59:50 - ==== Script execution started ====
+2020-09-03 08:59:53 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 08:59:57 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:00:00 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:00:03 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:00:07 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:00:10 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:00:13 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:00:13 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:00:43 - ==== Script execution started ====
+2020-09-03 09:00:47 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:00:50 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:00:53 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:00:56 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:00:59 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:01:02 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:01:05 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:01:05 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:01:35 - ==== Script execution started ====
+2020-09-03 09:01:38 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:01:41 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:01:44 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:01:47 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:01:50 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:01:53 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:01:56 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:01:56 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:02:26 - ==== Script execution started ====
+2020-09-03 09:02:30 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:02:33 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:02:36 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:02:39 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:02:42 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:02:45 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:02:48 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:02:48 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:03:18 - ==== Script execution started ====
+2020-09-03 09:03:21 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:03:24 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:03:27 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:03:30 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:03:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:03:36 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:03:39 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:03:39 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:04:09 - ==== Script execution started ====
+2020-09-03 09:04:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:04:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:04:18 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:04:22 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:04:25 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:04:28 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:04:31 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:04:31 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:05:01 - ==== Script execution started ====
+2020-09-03 09:05:04 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:05:07 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:05:10 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:05:13 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:05:16 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:05:19 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:05:22 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:05:22 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:05:52 - ==== Script execution started ====
+2020-09-03 09:05:55 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:05:58 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:06:01 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:06:05 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:06:08 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:06:11 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:06:15 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:06:15 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:06:45 - ==== Script execution started ====
+2020-09-03 09:06:48 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:06:51 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:06:54 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:06:57 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:07:00 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:07:03 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:07:07 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:07:07 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:07:37 - ==== Script execution started ====
+2020-09-03 09:07:40 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:07:43 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:07:46 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:07:49 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:07:52 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:07:55 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:07:58 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:07:58 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:08:28 - ==== Script execution started ====
+2020-09-03 09:08:31 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:08:34 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:08:37 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:08:40 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:08:43 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:08:46 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:08:49 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:08:49 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:09:20 - ==== Script execution started ====
+2020-09-03 09:09:24 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:09:27 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:09:30 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:09:33 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:09:36 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:09:39 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:09:42 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:09:42 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:10:12 - ==== Script execution started ====
+2020-09-03 09:10:15 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:10:18 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:10:21 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:10:25 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:10:28 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:10:31 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:10:34 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:10:34 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:11:04 - ==== Script execution started ====
+2020-09-03 09:11:07 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:11:10 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:11:13 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:11:16 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:11:19 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:11:23 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:11:26 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:11:26 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:11:56 - ==== Script execution started ====
+2020-09-03 09:11:59 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:12:02 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:12:05 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:12:08 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:12:11 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:12:14 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:12:17 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:12:17 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:12:47 - ==== Script execution started ====
+2020-09-03 09:12:50 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:12:53 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:12:56 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:13:00 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:13:03 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:13:06 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:13:09 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:13:09 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:13:39 - ==== Script execution started ====
+2020-09-03 09:13:42 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:13:45 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:13:48 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:13:51 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:13:54 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:13:57 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:14:00 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:14:00 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:14:30 - ==== Script execution started ====
+2020-09-03 09:14:35 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:14:38 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:14:41 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:14:44 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:14:47 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:14:50 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:14:53 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:14:53 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:15:23 - ==== Script execution started ====
+2020-09-03 09:15:26 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:15:29 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:15:32 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:15:35 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:15:38 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:15:41 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:15:44 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:15:44 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:16:14 - ==== Script execution started ====
+2020-09-03 09:16:17 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:16:20 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:16:23 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:16:26 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:16:29 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:16:32 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:16:35 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:16:35 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:17:05 - ==== Script execution started ====
+2020-09-03 09:17:08 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:17:12 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:17:15 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:17:18 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:17:21 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:17:24 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:17:27 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:17:27 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:17:57 - ==== Script execution started ====
+2020-09-03 09:18:00 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:18:03 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:18:06 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:18:09 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:18:12 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:18:15 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:18:18 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:18:18 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:18:48 - ==== Script execution started ====
+2020-09-03 09:18:52 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:18:55 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:18:58 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:19:01 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:19:04 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:19:07 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:19:10 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:19:10 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:19:40 - ==== Script execution started ====
+2020-09-03 09:19:44 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:19:47 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:19:50 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:20:06 - Dan's Phone: 172.21.20.70 is down. Ping Unsuccessful.
+2020-09-03 09:20:10 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:20:13 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:20:16 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:20:16 - ==== Script execution ended / Total = 7, Successful = 6, Failed = 1 ====
+2020-09-03 09:20:46 - ==== Script execution started ====
+2020-09-03 09:20:49 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:20:53 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:20:56 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:20:59 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:21:03 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:21:06 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:21:09 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:21:09 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:21:39 - ==== Script execution started ====
+2020-09-03 09:21:43 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:21:46 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:21:49 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:21:52 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:21:55 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:21:58 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:22:01 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:22:01 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:22:31 - ==== Script execution started ====
+2020-09-03 09:22:34 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:22:37 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:22:40 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:22:43 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:22:46 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:22:50 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:22:53 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:22:53 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:23:23 - ==== Script execution started ====
+2020-09-03 09:23:26 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:23:29 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:23:32 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:23:35 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:23:38 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:23:41 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:23:44 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:23:44 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:24:14 - ==== Script execution started ====
+2020-09-03 09:24:18 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:24:21 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:24:24 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:24:27 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:24:30 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:24:33 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:24:36 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:24:36 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:25:06 - ==== Script execution started ====
+2020-09-03 09:25:09 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:25:12 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:25:15 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:25:19 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:25:22 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:25:25 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:25:28 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:25:28 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:25:58 - ==== Script execution started ====
+2020-09-03 09:26:02 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:26:05 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:26:08 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:26:11 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:26:14 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:26:17 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:26:20 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:26:20 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:26:50 - ==== Script execution started ====
+2020-09-03 09:26:53 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:26:56 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:26:59 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:27:02 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:27:05 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:27:08 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:27:11 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:27:11 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:27:42 - ==== Script execution started ====
+2020-09-03 09:27:45 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:27:48 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:27:51 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:27:54 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:27:57 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:28:00 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:28:03 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:28:03 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:28:33 - ==== Script execution started ====
+2020-09-03 09:28:36 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:28:39 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:28:42 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:28:46 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:28:49 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:28:52 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:28:55 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:28:55 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:29:25 - ==== Script execution started ====
+2020-09-03 09:29:28 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:29:31 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:29:34 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:29:37 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:29:40 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:29:43 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:29:46 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:29:46 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:30:17 - ==== Script execution started ====
+2020-09-03 09:30:21 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:30:24 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:30:27 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:30:30 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:30:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:30:36 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:30:39 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:30:39 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:31:09 - ==== Script execution started ====
+2020-09-03 09:31:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:31:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:31:18 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:31:25 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:31:28 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:31:31 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:31:34 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:31:34 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:32:04 - ==== Script execution started ====
+2020-09-03 09:32:08 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:32:11 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:32:14 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:32:18 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:32:21 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:32:24 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:32:27 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:32:27 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:32:57 - ==== Script execution started ====
+2020-09-03 09:33:00 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:33:03 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:33:06 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:33:09 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:33:12 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:33:16 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:33:19 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:33:19 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:33:49 - ==== Script execution started ====
+2020-09-03 09:33:52 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:33:55 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:33:58 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:34:01 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:34:04 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:34:07 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:34:10 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:34:10 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:34:40 - ==== Script execution started ====
+2020-09-03 09:34:43 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:34:46 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:34:50 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:34:53 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:34:56 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:35:00 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:35:03 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:35:03 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:35:33 - ==== Script execution started ====
+2020-09-03 09:35:36 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:35:39 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:35:42 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:35:46 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:35:49 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:35:52 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:35:55 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:35:55 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:36:25 - ==== Script execution started ====
+2020-09-03 09:36:28 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:36:31 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:36:34 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:36:37 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:36:40 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:36:43 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:36:47 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:36:47 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:37:17 - ==== Script execution started ====
+2020-09-03 09:37:21 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:37:24 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:37:27 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:37:30 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:37:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:37:36 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:37:39 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:37:39 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:38:09 - ==== Script execution started ====
+2020-09-03 09:38:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:38:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:38:19 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:38:22 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:38:25 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:38:28 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:38:31 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:38:31 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:39:01 - ==== Script execution started ====
+2020-09-03 09:39:05 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:39:08 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:39:12 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:39:15 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:39:18 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:39:21 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:39:25 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:39:25 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:39:55 - ==== Script execution started ====
+2020-09-03 09:39:58 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:40:01 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:40:04 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:40:08 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:40:11 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:40:14 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:40:17 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:40:17 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:40:47 - ==== Script execution started ====
+2020-09-03 09:40:50 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:40:53 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:40:56 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:41:00 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:41:03 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:41:06 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:41:09 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:41:09 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:41:39 - ==== Script execution started ====
+2020-09-03 09:41:42 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:41:45 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:41:48 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:41:51 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:41:54 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:41:57 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:42:00 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:42:00 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:42:31 - ==== Script execution started ====
+2020-09-03 09:42:34 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:42:37 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:42:40 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:42:43 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:42:46 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:42:49 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:42:52 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:42:52 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:43:22 - ==== Script execution started ====
+2020-09-03 09:43:25 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:43:28 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:43:31 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:43:34 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:43:37 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:43:40 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:43:43 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:43:43 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:44:13 - ==== Script execution started ====
+2020-09-03 09:44:16 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:44:19 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:44:23 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:44:26 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:44:29 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:44:32 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:44:35 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:44:35 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:45:05 - ==== Script execution started ====
+2020-09-03 09:45:08 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:45:11 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:45:14 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:45:17 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:45:20 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:45:24 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:45:27 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:45:27 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:45:57 - ==== Script execution started ====
+2020-09-03 09:46:00 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:46:03 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:46:06 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:46:09 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:46:12 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:46:15 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:46:18 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:46:18 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:46:48 - ==== Script execution started ====
+2020-09-03 09:46:52 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:46:55 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:46:58 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:47:01 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:47:04 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:47:08 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:47:11 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:47:11 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:47:41 - ==== Script execution started ====
+2020-09-03 09:47:44 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:47:47 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:47:50 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:47:53 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:47:56 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:47:59 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:48:02 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:48:02 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:48:32 - ==== Script execution started ====
+2020-09-03 09:48:36 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:48:39 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:48:42 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:48:47 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:48:50 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:48:53 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:48:56 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:48:56 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:49:26 - ==== Script execution started ====
+2020-09-03 09:49:29 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:49:33 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:49:36 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:49:39 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:49:42 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:49:46 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:49:49 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:49:49 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:50:19 - ==== Script execution started ====
+2020-09-03 09:50:22 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:50:25 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:50:28 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:50:31 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:50:34 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:50:37 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:50:40 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:50:40 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:51:10 - ==== Script execution started ====
+2020-09-03 09:51:13 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:51:16 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:51:19 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:51:22 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:51:25 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:51:28 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:51:31 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:51:31 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:52:01 - ==== Script execution started ====
+2020-09-03 09:52:04 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:52:07 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:52:10 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:52:14 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:52:17 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:52:20 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:52:23 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:52:23 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:52:53 - ==== Script execution started ====
+2020-09-03 09:52:56 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:52:59 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:53:02 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:53:05 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:53:08 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:53:11 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:53:14 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:53:14 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:53:44 - ==== Script execution started ====
+2020-09-03 09:53:47 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:53:50 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:53:53 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:53:56 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:53:59 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:54:03 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:54:06 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:54:06 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:54:36 - ==== Script execution started ====
+2020-09-03 09:54:39 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:54:42 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:54:45 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:54:52 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:54:56 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:54:59 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:55:02 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:55:02 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:55:32 - ==== Script execution started ====
+2020-09-03 09:55:35 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:55:38 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:55:41 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:55:44 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:55:47 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:55:50 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:55:54 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:55:54 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:56:24 - ==== Script execution started ====
+2020-09-03 09:56:27 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:56:30 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:56:33 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:56:36 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:56:39 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:56:42 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:56:46 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:56:46 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:57:16 - ==== Script execution started ====
+2020-09-03 09:57:19 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:57:22 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:57:25 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:57:30 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:57:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:57:37 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:57:40 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:57:40 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:58:10 - ==== Script execution started ====
+2020-09-03 09:58:13 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:58:16 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:58:19 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:58:22 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:58:25 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:58:28 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:58:31 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:58:31 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:59:01 - ==== Script execution started ====
+2020-09-03 09:59:04 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:59:07 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 09:59:10 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 09:59:14 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 09:59:17 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 09:59:20 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 09:59:23 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 09:59:23 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 09:59:53 - ==== Script execution started ====
+2020-09-03 09:59:56 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 09:59:59 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:00:02 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:00:05 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:00:08 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:00:11 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:00:14 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:00:14 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:00:44 - ==== Script execution started ====
+2020-09-03 10:00:47 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:00:50 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:00:53 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:00:58 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:01:01 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:01:04 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:01:07 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:01:07 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:01:37 - ==== Script execution started ====
+2020-09-03 10:01:40 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:01:43 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:01:46 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:01:50 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:01:53 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:01:56 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:01:59 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:01:59 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:02:29 - ==== Script execution started ====
+2020-09-03 10:02:32 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:02:35 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:02:38 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:02:41 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:02:45 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:02:48 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:02:51 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:02:51 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:03:21 - ==== Script execution started ====
+2020-09-03 10:03:24 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:03:27 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:03:31 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:03:34 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:03:37 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:03:40 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:03:43 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:03:43 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:04:13 - ==== Script execution started ====
+2020-09-03 10:04:17 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:04:20 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:04:23 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:04:27 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:04:30 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:04:33 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:04:36 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:04:36 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:05:06 - ==== Script execution started ====
+2020-09-03 10:05:09 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:05:12 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:05:15 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:05:18 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:05:21 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:05:24 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:05:28 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:05:28 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:05:58 - ==== Script execution started ====
+2020-09-03 10:06:01 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:06:04 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:06:07 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:06:10 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:06:13 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:06:17 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:06:20 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:06:20 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:06:50 - ==== Script execution started ====
+2020-09-03 10:06:54 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:06:57 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:07:00 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:07:03 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:07:06 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:07:09 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:07:12 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:07:12 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:07:42 - ==== Script execution started ====
+2020-09-03 10:07:45 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:07:48 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:07:51 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:07:55 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:07:58 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:08:01 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:08:04 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:08:04 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:08:34 - ==== Script execution started ====
+2020-09-03 10:08:37 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:08:40 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:08:43 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:08:47 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:08:50 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:08:53 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:08:56 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:08:56 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:09:26 - ==== Script execution started ====
+2020-09-03 10:09:29 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:09:32 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:09:35 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:09:38 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:09:41 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:09:44 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:09:47 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:09:47 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:10:17 - ==== Script execution started ====
+2020-09-03 10:10:21 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:10:24 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:10:27 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:10:30 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:10:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:10:36 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:10:39 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:10:39 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:11:09 - ==== Script execution started ====
+2020-09-03 10:11:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:11:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:11:18 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:11:22 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:11:25 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:11:28 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:11:31 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:11:31 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:12:01 - ==== Script execution started ====
+2020-09-03 10:12:04 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:12:07 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:12:10 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:12:13 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:12:16 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:12:19 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:12:22 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:12:22 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:12:52 - ==== Script execution started ====
+2020-09-03 10:12:55 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:12:59 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:13:02 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:13:05 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:13:08 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:13:11 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:13:14 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:13:14 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:13:44 - ==== Script execution started ====
+2020-09-03 10:13:48 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:13:51 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:13:54 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:13:58 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:14:01 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:14:04 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:14:07 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:14:07 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:14:37 - ==== Script execution started ====
+2020-09-03 10:14:40 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:14:43 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:14:46 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:14:49 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:14:52 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:14:55 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:14:58 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:14:58 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:15:28 - ==== Script execution started ====
+2020-09-03 10:15:31 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:15:34 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:15:37 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:15:41 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:15:44 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:15:47 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:15:50 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:15:50 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:16:20 - ==== Script execution started ====
+2020-09-03 10:16:23 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:16:26 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:16:29 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:16:32 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:16:35 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:16:38 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:16:41 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:16:41 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:17:11 - ==== Script execution started ====
+2020-09-03 10:17:14 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:17:17 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:17:20 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:17:23 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:17:26 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:17:29 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:17:33 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:17:33 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:18:03 - ==== Script execution started ====
+2020-09-03 10:18:06 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:18:09 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:18:12 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:18:15 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:18:18 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:18:21 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:18:24 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:18:24 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:18:54 - ==== Script execution started ====
+2020-09-03 10:18:57 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:19:00 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:19:03 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:19:06 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:19:09 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:19:12 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:19:15 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:19:15 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:19:45 - ==== Script execution started ====
+2020-09-03 10:19:48 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:19:51 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:19:54 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:20:08 - Dan's Phone: 172.21.20.70 is down. Ping Unsuccessful.
+2020-09-03 10:20:12 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:20:15 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:20:19 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:20:19 - ==== Script execution ended / Total = 7, Successful = 6, Failed = 1 ====
+2020-09-03 10:20:49 - ==== Script execution started ====
+2020-09-03 10:20:52 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:20:55 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:20:58 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:21:01 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:21:05 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:21:08 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:21:11 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:21:11 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:21:41 - ==== Script execution started ====
+2020-09-03 10:21:44 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:21:47 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:21:50 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:21:54 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:21:57 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:22:00 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:22:03 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:22:03 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:22:33 - ==== Script execution started ====
+2020-09-03 10:22:37 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:22:40 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:22:43 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:22:46 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:22:49 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:22:53 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:22:56 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:22:56 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:23:26 - ==== Script execution started ====
+2020-09-03 10:23:29 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:23:32 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:23:35 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:23:38 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:23:41 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:23:44 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:23:47 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:23:47 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:24:17 - ==== Script execution started ====
+2020-09-03 10:24:20 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:24:23 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:24:26 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:24:30 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:24:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:24:36 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:24:39 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:24:39 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:25:09 - ==== Script execution started ====
+2020-09-03 10:25:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:25:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:25:18 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:25:21 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:25:24 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:25:27 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:25:30 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:25:30 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:26:00 - ==== Script execution started ====
+2020-09-03 10:26:03 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:26:06 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:26:09 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:26:13 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:26:16 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:26:19 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:26:22 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:26:22 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:26:52 - ==== Script execution started ====
+2020-09-03 10:26:55 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:26:58 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:27:01 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:27:04 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:27:07 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:27:10 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:27:13 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:27:13 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:27:43 - ==== Script execution started ====
+2020-09-03 10:27:46 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:27:49 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:27:52 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:27:56 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:27:59 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:28:02 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:28:05 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:28:05 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:28:35 - ==== Script execution started ====
+2020-09-03 10:28:38 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:28:41 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:28:44 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:28:48 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:28:51 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:28:54 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:28:57 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:28:57 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:29:27 - ==== Script execution started ====
+2020-09-03 10:29:30 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:29:33 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:29:36 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:29:39 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:29:42 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:29:45 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:29:48 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:29:48 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:30:18 - ==== Script execution started ====
+2020-09-03 10:30:21 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:30:24 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:30:27 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:30:30 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:30:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:30:37 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:30:40 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:30:40 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:31:10 - ==== Script execution started ====
+2020-09-03 10:31:13 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:31:16 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:31:19 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:31:22 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:31:25 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:31:28 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:31:31 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:31:31 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:32:01 - ==== Script execution started ====
+2020-09-03 10:32:04 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:32:07 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:32:10 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:32:14 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:32:17 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:32:20 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:32:23 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:32:23 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:32:53 - ==== Script execution started ====
+2020-09-03 10:32:56 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:32:59 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:33:02 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:33:05 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:33:08 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:33:12 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:33:15 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:33:15 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:33:45 - ==== Script execution started ====
+2020-09-03 10:33:48 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:33:51 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:33:54 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:33:57 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:34:00 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:34:03 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:34:07 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:34:07 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:34:37 - ==== Script execution started ====
+2020-09-03 10:34:40 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:34:43 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:34:47 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:34:50 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:34:54 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:34:57 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:35:00 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:35:00 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:35:30 - ==== Script execution started ====
+2020-09-03 10:35:34 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:35:37 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:35:40 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:35:43 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:35:46 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:35:49 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:35:52 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:35:52 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:36:22 - ==== Script execution started ====
+2020-09-03 10:36:25 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:36:28 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:36:31 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:36:34 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:36:37 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:36:40 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:36:43 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:36:43 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:37:13 - ==== Script execution started ====
+2020-09-03 10:37:16 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:37:20 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:37:23 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:37:26 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:37:29 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:37:32 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:37:35 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:37:35 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:38:05 - ==== Script execution started ====
+2020-09-03 10:38:08 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:38:11 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:38:14 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:38:18 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:38:21 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:38:24 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:38:27 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:38:27 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:38:57 - ==== Script execution started ====
+2020-09-03 10:39:00 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:39:03 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:39:06 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:39:09 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:39:12 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:39:15 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:39:18 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:39:18 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:39:48 - ==== Script execution started ====
+2020-09-03 10:39:51 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:39:55 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:39:58 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:40:01 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:40:04 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:40:07 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:40:11 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:40:11 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:40:41 - ==== Script execution started ====
+2020-09-03 10:40:44 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:40:47 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:40:50 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:40:53 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:40:56 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:40:59 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:41:02 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:41:02 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:41:32 - ==== Script execution started ====
+2020-09-03 10:41:35 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:41:38 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:41:41 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:41:44 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:41:48 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:41:51 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:41:54 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:41:54 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:42:24 - ==== Script execution started ====
+2020-09-03 10:42:27 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:42:30 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:42:33 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:42:36 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:42:39 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:42:42 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:42:45 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:42:45 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:43:15 - ==== Script execution started ====
+2020-09-03 10:43:19 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:43:22 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:43:25 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:43:28 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:43:31 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:43:34 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:43:38 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:43:38 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:44:08 - ==== Script execution started ====
+2020-09-03 10:44:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:44:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:44:18 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:44:21 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:44:24 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:44:27 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:44:30 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:44:30 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:45:00 - ==== Script execution started ====
+2020-09-03 10:45:03 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:45:06 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:45:09 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:45:12 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:45:15 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:45:18 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:45:22 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:45:22 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:45:52 - ==== Script execution started ====
+2020-09-03 10:45:55 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:45:58 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:46:01 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:46:04 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:46:07 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:46:10 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:46:13 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:46:13 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:46:43 - ==== Script execution started ====
+2020-09-03 10:46:46 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:46:49 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:46:52 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:46:55 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:46:58 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:47:01 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:47:04 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:47:04 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:47:34 - ==== Script execution started ====
+2020-09-03 10:47:37 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:47:40 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:47:43 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:47:47 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:47:50 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:47:53 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:47:56 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:47:56 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:48:26 - ==== Script execution started ====
+2020-09-03 10:48:29 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:48:32 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:48:35 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:48:38 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:48:41 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:48:44 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:48:47 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:48:47 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:49:17 - ==== Script execution started ====
+2020-09-03 10:49:20 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:49:23 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:49:26 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:49:29 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:49:32 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:49:35 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:49:38 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:49:38 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:50:09 - ==== Script execution started ====
+2020-09-03 10:50:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:50:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:50:18 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:50:21 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:50:24 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:50:27 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:50:30 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:50:30 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:51:00 - ==== Script execution started ====
+2020-09-03 10:51:03 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:51:06 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:51:09 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:51:12 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:51:15 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:51:18 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:51:21 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:51:21 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:51:52 - ==== Script execution started ====
+2020-09-03 10:51:55 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:51:58 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:52:01 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:52:04 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:52:07 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:52:10 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:52:13 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:52:13 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:52:43 - ==== Script execution started ====
+2020-09-03 10:52:46 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:52:49 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:52:52 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:52:55 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:52:58 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:53:01 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:53:04 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:53:04 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:53:34 - ==== Script execution started ====
+2020-09-03 10:53:39 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:53:42 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:53:45 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:53:48 - Dan's Phone: 172.21.20.70 is up. Ping Successful.
+2020-09-03 10:53:52 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:53:55 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:53:58 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:53:58 - ==== Script execution ended / Total = 7, Successful = 7, Failed = 0 ====
+2020-09-03 10:54:28 - ==== Script execution started ====
+2020-09-03 10:54:31 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:54:34 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:54:37 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:54:53 - Dan's Phone: 172.21.20.70 is down. Ping Unsuccessful.
+2020-09-03 10:54:57 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:55:00 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:55:03 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:55:03 - ==== Script execution ended / Total = 7, Successful = 6, Failed = 1 ====
+2020-09-03 10:55:33 - ==== Script execution started ====
+2020-09-03 10:55:37 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:55:40 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:55:43 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:55:46 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:55:49 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:55:52 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:55:52 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 10:56:22 - ==== Script execution started ====
+2020-09-03 10:56:25 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:56:28 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:56:31 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:56:35 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:56:38 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:56:41 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:56:41 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 10:57:11 - ==== Script execution started ====
+2020-09-03 10:57:14 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:57:17 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:57:20 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:57:23 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:57:26 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:57:29 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:57:29 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 10:57:59 - ==== Script execution started ====
+2020-09-03 10:58:02 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:58:05 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:58:08 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:58:11 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:58:14 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:58:18 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:58:18 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 10:58:48 - ==== Script execution started ====
+2020-09-03 10:58:52 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:58:55 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:58:58 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:59:01 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:59:04 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:59:07 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:59:07 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 10:59:37 - ==== Script execution started ====
+2020-09-03 10:59:40 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 10:59:43 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 10:59:46 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 10:59:49 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 10:59:52 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 10:59:55 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 10:59:55 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:00:25 - ==== Script execution started ====
+2020-09-03 11:00:29 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:00:32 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:00:35 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:00:38 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:00:41 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:00:44 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:00:44 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:01:14 - ==== Script execution started ====
+2020-09-03 11:01:17 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:01:20 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:01:23 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:01:26 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:01:29 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:01:32 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:01:32 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:02:02 - ==== Script execution started ====
+2020-09-03 11:02:05 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:02:08 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:02:11 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:02:15 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:02:18 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:02:21 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:02:21 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:02:51 - ==== Script execution started ====
+2020-09-03 11:02:54 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:02:57 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:03:00 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:03:03 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:03:06 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:03:09 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:03:09 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:03:39 - ==== Script execution started ====
+2020-09-03 11:03:42 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:03:45 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:03:48 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:03:51 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:03:54 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:03:57 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:03:57 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:04:27 - ==== Script execution started ====
+2020-09-03 11:04:30 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:04:34 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:04:37 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:04:40 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:04:43 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:04:46 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:04:46 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:05:16 - ==== Script execution started ====
+2020-09-03 11:05:19 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:05:22 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:05:25 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:05:28 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:05:31 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:05:34 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:05:34 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:06:04 - ==== Script execution started ====
+2020-09-03 11:06:07 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:06:10 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:06:13 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:06:17 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:06:20 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:06:23 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:06:23 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:06:53 - ==== Script execution started ====
+2020-09-03 11:06:56 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:06:59 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:07:02 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:07:05 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:07:08 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:07:11 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:07:11 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:07:41 - ==== Script execution started ====
+2020-09-03 11:07:44 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:07:47 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:07:50 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:07:53 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:07:56 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:07:59 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:07:59 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:08:30 - ==== Script execution started ====
+2020-09-03 11:08:33 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:08:36 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:08:39 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:08:42 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:08:45 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:08:48 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:08:48 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:09:18 - ==== Script execution started ====
+2020-09-03 11:09:21 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:09:24 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:09:27 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:09:30 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:09:33 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:09:36 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:09:36 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:10:06 - ==== Script execution started ====
+2020-09-03 11:10:09 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:10:12 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:10:15 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:10:18 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:10:22 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:10:25 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:10:25 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:10:55 - ==== Script execution started ====
+2020-09-03 11:10:58 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:11:01 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:11:04 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:11:07 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:11:11 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:11:14 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:11:14 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:11:45 - ==== Script execution started ====
+2020-09-03 11:11:48 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:11:51 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:11:54 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:11:57 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:12:00 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:12:03 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:12:03 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:12:33 - ==== Script execution started ====
+2020-09-03 11:12:36 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:12:39 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:12:42 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:12:45 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:12:48 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:12:51 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:12:51 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:13:21 - ==== Script execution started ====
+2020-09-03 11:13:24 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:13:28 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:13:31 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:13:34 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:13:37 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:13:41 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:13:41 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:14:11 - ==== Script execution started ====
+2020-09-03 11:14:15 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:14:18 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:14:21 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:14:24 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:14:28 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:14:31 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:14:31 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:15:01 - ==== Script execution started ====
+2020-09-03 11:15:05 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:15:08 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:15:11 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:15:14 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:15:18 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:15:21 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:15:21 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:15:51 - ==== Script execution started ====
+2020-09-03 11:15:54 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:15:57 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:16:00 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:16:03 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:16:06 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:16:10 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:16:10 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:16:40 - ==== Script execution started ====
+2020-09-03 11:16:44 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:16:47 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:16:50 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:16:53 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:16:56 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:16:59 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:16:59 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:17:29 - ==== Script execution started ====
+2020-09-03 11:17:32 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:17:35 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:17:38 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:17:41 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:17:44 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:17:47 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:17:47 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:18:17 - ==== Script execution started ====
+2020-09-03 11:18:20 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:18:23 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:18:26 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:18:29 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:18:32 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:18:36 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:18:36 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:19:06 - ==== Script execution started ====
+2020-09-03 11:19:09 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:19:12 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:19:15 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:19:18 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:19:21 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:19:24 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:19:24 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:19:54 - ==== Script execution started ====
+2020-09-03 11:19:57 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:20:00 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:20:03 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:20:06 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:20:09 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:20:12 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:20:12 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:20:42 - ==== Script execution started ====
+2020-09-03 11:20:45 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:20:48 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:20:51 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:20:54 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:20:57 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:21:01 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:21:01 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:21:32 - ==== Script execution started ====
+2020-09-03 11:21:35 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:21:38 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:21:41 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:21:44 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:21:47 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:21:50 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:21:50 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:22:20 - ==== Script execution started ====
+2020-09-03 11:22:23 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:22:26 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:22:29 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:22:32 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:22:35 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:22:38 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:22:38 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:23:08 - ==== Script execution started ====
+2020-09-03 11:23:11 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:23:14 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:23:17 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:23:20 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:23:23 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:23:27 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:23:27 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:23:57 - ==== Script execution started ====
+2020-09-03 11:24:00 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:24:03 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:24:06 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:24:09 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:24:12 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:24:15 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:24:15 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:24:45 - ==== Script execution started ====
+2020-09-03 11:24:48 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:24:51 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:24:55 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:24:58 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:25:01 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:25:04 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:25:04 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:25:34 - ==== Script execution started ====
+2020-09-03 11:25:40 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:25:43 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:25:47 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:25:50 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:25:53 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:25:56 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:25:56 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:26:26 - ==== Script execution started ====
+2020-09-03 11:26:29 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:26:32 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:26:35 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:26:38 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:26:41 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:26:44 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:26:44 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:27:14 - ==== Script execution started ====
+2020-09-03 11:27:18 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:27:21 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:27:24 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:27:27 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:27:30 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:27:33 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:27:33 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:28:03 - ==== Script execution started ====
+2020-09-03 11:28:06 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:28:09 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:28:12 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:28:15 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:28:19 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:28:22 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:28:22 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:28:52 - ==== Script execution started ====
+2020-09-03 11:28:55 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:28:58 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:29:02 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:29:05 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:29:08 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:29:11 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:29:11 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:29:41 - ==== Script execution started ====
+2020-09-03 11:29:46 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:29:49 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:29:52 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:29:55 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:29:58 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:30:01 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:30:01 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:30:32 - ==== Script execution started ====
+2020-09-03 11:30:35 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:30:38 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:30:41 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:30:44 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:30:47 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:30:50 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:30:50 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:31:20 - ==== Script execution started ====
+2020-09-03 11:31:23 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:31:26 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:31:29 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:31:32 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:31:35 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:31:38 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:31:38 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:32:08 - ==== Script execution started ====
+2020-09-03 11:32:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:32:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:32:18 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:32:21 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:32:24 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:32:27 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:32:27 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:32:57 - ==== Script execution started ====
+2020-09-03 11:33:01 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:33:04 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:33:07 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:33:10 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:33:13 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:33:16 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:33:16 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:33:46 - ==== Script execution started ====
+2020-09-03 11:33:49 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:33:52 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:33:55 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:34:00 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:34:03 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:34:06 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:34:06 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:34:36 - ==== Script execution started ====
+2020-09-03 11:34:39 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:34:42 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:34:45 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:34:48 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:34:51 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:34:54 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:34:54 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:35:24 - ==== Script execution started ====
+2020-09-03 11:35:27 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:35:30 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:35:33 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:35:36 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:35:39 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:35:42 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:35:42 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:36:14 - ==== Script execution started ====
+2020-09-03 11:36:17 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:36:20 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:36:24 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:36:27 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:36:30 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:36:33 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:36:33 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:37:03 - ==== Script execution started ====
+2020-09-03 11:37:06 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:37:09 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:37:12 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:37:15 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:37:18 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:37:21 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:37:21 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:37:51 - ==== Script execution started ====
+2020-09-03 11:37:54 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:37:57 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:38:01 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:38:04 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:38:07 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:38:10 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:38:10 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:38:40 - ==== Script execution started ====
+2020-09-03 11:38:43 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:38:46 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:38:49 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:38:52 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:38:55 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:38:58 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:38:58 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:39:28 - ==== Script execution started ====
+2020-09-03 11:39:31 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:39:34 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:39:37 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:39:40 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:39:43 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:39:46 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:39:46 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:40:16 - ==== Script execution started ====
+2020-09-03 11:40:19 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:40:22 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:40:25 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:40:28 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:40:31 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:40:34 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:40:34 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:41:05 - ==== Script execution started ====
+2020-09-03 11:41:08 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:41:11 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:41:14 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:41:17 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:41:20 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:41:23 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:41:23 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:41:53 - ==== Script execution started ====
+2020-09-03 11:41:56 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:41:59 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:42:02 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:42:05 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:42:08 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:42:11 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:42:11 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:42:41 - ==== Script execution started ====
+2020-09-03 11:42:44 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:42:47 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:42:50 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:42:54 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:42:57 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:43:00 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:43:00 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:43:30 - ==== Script execution started ====
+2020-09-03 11:43:33 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:43:36 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:43:39 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:43:42 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:43:45 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:43:48 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:43:48 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:44:18 - ==== Script execution started ====
+2020-09-03 11:44:21 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:44:24 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:44:27 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:44:30 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:44:33 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:44:36 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:44:36 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:45:06 - ==== Script execution started ====
+2020-09-03 11:45:09 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:45:12 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:45:15 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:45:18 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:45:22 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:45:25 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:45:25 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:45:55 - ==== Script execution started ====
+2020-09-03 11:45:58 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:46:01 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:46:04 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:46:07 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:46:10 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:46:13 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:46:13 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:46:43 - ==== Script execution started ====
+2020-09-03 11:46:46 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:46:49 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:46:52 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:46:55 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:46:58 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:47:01 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:47:01 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:47:31 - ==== Script execution started ====
+2020-09-03 11:47:34 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:47:37 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:47:40 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:47:43 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:47:46 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:47:49 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:47:49 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:48:19 - ==== Script execution started ====
+2020-09-03 11:48:22 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:48:25 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:48:28 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:48:31 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:48:34 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:48:38 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:48:38 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:49:08 - ==== Script execution started ====
+2020-09-03 11:49:11 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:49:14 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:49:17 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:49:20 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:49:23 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:49:26 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:49:26 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:49:56 - ==== Script execution started ====
+2020-09-03 11:49:59 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:50:02 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:50:05 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:50:08 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:50:11 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:50:14 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:50:14 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:50:44 - ==== Script execution started ====
+2020-09-03 11:50:47 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:50:50 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:50:53 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:50:56 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:50:59 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:51:02 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:51:02 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:51:32 - ==== Script execution started ====
+2020-09-03 11:51:35 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:51:38 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:51:41 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:51:45 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:51:48 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:51:51 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:51:51 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:52:21 - ==== Script execution started ====
+2020-09-03 11:52:24 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:52:27 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:52:30 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:52:33 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:52:36 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:52:39 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:52:39 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:53:09 - ==== Script execution started ====
+2020-09-03 11:53:12 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:53:15 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:53:18 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:53:21 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:53:24 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:53:27 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:53:27 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:53:57 - ==== Script execution started ====
+2020-09-03 11:54:00 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:54:03 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:54:06 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:54:09 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:54:12 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:54:15 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:54:15 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:54:45 - ==== Script execution started ====
+2020-09-03 11:54:48 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:54:51 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:54:54 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:54:58 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:55:01 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:55:04 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:55:04 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:55:34 - ==== Script execution started ====
+2020-09-03 11:55:37 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:55:40 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:55:43 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:55:47 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:55:50 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:55:53 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:55:53 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:56:23 - ==== Script execution started ====
+2020-09-03 11:56:26 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:56:29 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:56:32 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:56:35 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:56:38 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:56:41 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:56:41 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:57:11 - ==== Script execution started ====
+2020-09-03 11:57:14 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:57:17 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:57:20 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:57:23 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:57:26 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:57:29 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:57:29 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:57:59 - ==== Script execution started ====
+2020-09-03 11:58:02 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:58:05 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:58:09 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:58:12 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:58:15 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:58:19 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:58:19 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:58:49 - ==== Script execution started ====
+2020-09-03 11:58:53 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:58:56 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:58:59 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:59:02 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:59:05 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:59:08 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:59:08 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 11:59:38 - ==== Script execution started ====
+2020-09-03 11:59:42 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 11:59:45 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 11:59:48 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 11:59:51 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 11:59:54 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 11:59:57 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 11:59:57 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:00:27 - ==== Script execution started ====
+2020-09-03 12:00:30 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:00:33 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:00:36 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:00:39 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:00:42 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:00:45 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:00:45 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:01:15 - ==== Script execution started ====
+2020-09-03 12:01:18 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:01:21 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:01:24 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:01:27 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:01:31 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:01:34 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:01:34 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:02:04 - ==== Script execution started ====
+2020-09-03 12:02:07 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:02:10 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:02:13 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:02:16 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:02:19 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:02:22 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:02:22 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:02:52 - ==== Script execution started ====
+2020-09-03 12:02:55 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:02:58 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:03:01 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:03:04 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:03:07 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:03:10 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:03:10 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:03:40 - ==== Script execution started ====
+2020-09-03 12:03:43 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:03:46 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:03:49 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:03:52 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:03:55 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:03:58 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:03:58 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:04:28 - ==== Script execution started ====
+2020-09-03 12:04:31 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:04:34 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:04:37 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:04:40 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:04:44 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:04:47 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:04:47 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:05:17 - ==== Script execution started ====
+2020-09-03 12:05:20 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:05:23 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:05:26 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:05:29 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:05:32 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:05:35 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:05:35 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:06:05 - ==== Script execution started ====
+2020-09-03 12:06:08 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:06:11 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:06:14 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:06:17 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:06:20 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:06:23 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:06:23 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:06:53 - ==== Script execution started ====
+2020-09-03 12:06:56 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:06:59 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:07:02 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:07:05 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:07:08 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:07:12 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:07:12 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:07:42 - ==== Script execution started ====
+2020-09-03 12:07:45 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:07:48 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:07:51 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:07:54 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:07:57 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:08:00 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:08:00 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:08:30 - ==== Script execution started ====
+2020-09-03 12:08:33 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:08:36 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:08:39 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:08:42 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:08:45 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:08:48 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:08:48 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:09:18 - ==== Script execution started ====
+2020-09-03 12:09:22 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:09:25 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:09:28 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:09:31 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:09:35 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:09:38 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:09:38 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:10:08 - ==== Script execution started ====
+2020-09-03 12:10:11 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:10:14 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:10:17 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:10:20 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:10:23 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:10:26 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:10:26 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:10:56 - ==== Script execution started ====
+2020-09-03 12:10:59 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:11:02 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:11:05 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:11:08 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:11:11 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:11:14 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:11:14 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:11:44 - ==== Script execution started ====
+2020-09-03 12:11:47 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:11:50 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:11:54 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:11:57 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:12:00 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:12:03 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:12:03 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:12:33 - ==== Script execution started ====
+2020-09-03 12:12:36 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:12:39 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:12:42 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:12:45 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:12:48 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:12:51 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:12:51 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
+2020-09-03 12:13:21 - ==== Script execution started ====
+2020-09-03 12:13:24 - Domain: 172.21.20.1 is up. Ping Successful.
+2020-09-03 12:13:27 - 50 Buddy Server: 172.21.0.50 is up. Ping Successful.
+2020-09-03 12:13:30 - 51 Buddy Server: 172.21.0.51 is up. Ping Successful.
+2020-09-03 12:13:34 - ERP Server: 172.21.0.190 is up. Ping Successful.
+2020-09-03 12:13:37 - ERP Backup Server: 172.21.0.245 is up. Ping Successful.
+2020-09-03 12:13:40 - App Server: 172.21.0.246 is up. Ping Successful.
+2020-09-03 12:13:40 - ==== Script execution ended / Total = 6, Successful = 6, Failed = 0 ====
